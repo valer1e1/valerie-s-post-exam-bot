@@ -21,11 +21,11 @@ while True:
       counter += 1
     if each_word == "results":
       feelings_list.append("results")
-      encouragement_list.append("dont worry, just try again")
+      encouragement_list.append("don't worry, just try again")
       counter += 1
     if each_word == "stuck":
       feelings_list.append("stuck")
-      encouragement_list.append("go out")
+      encouragement_list.append("go out and relax")
       counter += 1
       
   if counter == 0:
